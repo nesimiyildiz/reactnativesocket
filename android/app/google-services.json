@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "19421334620",
+    "project_id": "capp-33bfd",
+    "storage_bucket": "capp-33bfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19421334620:android:35ccbca63848f51b82aa99",
+        "android_client_info": {
+          "package_name": "com.caapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19421334620-o2pqstetak2lnreclmqjh6pi8r6b4rlp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6rxfOOXRM9dGHlbLUIoaJKk4DZXbJJfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19421334620-o2pqstetak2lnreclmqjh6pi8r6b4rlp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
